@@ -1,0 +1,12 @@
+Folder PATH listing
+Volume serial number is C014-14A0
+D:.
+|   fitahiana_finetuned.keras
+|   folder_tree.txt
+|   requirements.txt
+|   runtime.txt
+|   serve.py
+|   
+\---__pycache__
+        serve.cpython-311.pyc
+        
